@@ -1,3 +1,5 @@
+# https://adventofcode.com/2022/day/2
+
 input_file_name = "02_input.txt"
 # input_file_name = "02_input_easy.txt"
 

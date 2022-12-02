@@ -1,3 +1,5 @@
+# https://adventofcode.com/2022/day/1
+
 input_file_name = "01_input.txt"
 
 # Opening file
