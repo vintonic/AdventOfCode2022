@@ -1,4 +1,5 @@
 input_file_name = "01_input.txt"
+#input_file_name = "01_input_easy.txt"
 
 # Opening file
 input_file = open(input_file_name, 'r')
